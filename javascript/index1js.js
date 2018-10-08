@@ -1,3 +1,3 @@
 var a;
-a="Improvise. Adapt. Overcome";
+a="Improvise. Adapt. Overcome.";
 alert(a);
